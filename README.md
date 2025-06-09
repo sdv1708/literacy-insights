@@ -28,6 +28,7 @@ For policymakers, NGOs, and international bodies like UNESCO, identifying the mo
 ## About the Dataset
 
 The analysis uses a comprehensive dataset of global socio-economic and educational indicators, compiled from sources such as the **World Bank**. The dataset covers multiple countries over several decades (primarily **1960–2014**) and includes:
+The dataset can be accessed from this drive link I have created : https://drive.google.com/drive/folders/1VB2rQHypdtWVA4J_SG3cMPFGKTna9Mkb?usp=drive_link
 
 - **Dependent Variable**:
   - Adult Literacy Rate (%)
